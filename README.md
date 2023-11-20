@@ -51,7 +51,7 @@ By executing with the ```-cli```, the main loop started, and you are greeted by 
 
 ## Contact
 
-For questions and sugestions, you can [reach me at Zulip](https://chat.pixforcemaps.com/#narrow/pm-with/18-lucas.ceschini), or [e-mail me](mailto:lucas.ceschini@pixforce.ai).
+For questions and sugestions, you can [reach me at Matrix](https://matrix.to/#/@groovy-lizzard:matrix.org), or [e-mail me](mailto:ceschini.lucas@gmail.com).
 ***
 
 Lucas Ceschini, Feb 7, 2023.
